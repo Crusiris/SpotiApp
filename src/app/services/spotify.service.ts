@@ -11,7 +11,7 @@ export class SpotifyService {
   getNewRelease() {
     const headers = new HttpHeaders({
       Authorization:
-        "Bearer BQAfTfArV0a4k44nTPosfdlP9H04p2P6HT0IgNfI9F0nuLYze8YdhUgF-7IL7FFSfQFiVdX4GN8rxGpHyi4"
+        "Bearer BQCmjQSByyiYQULs9kbWkatfuV8H3-g_NQsPe7aWaXjwz8cTlImX0gm3_5fhyzUEkEVJm3YdqDxFUVUnlE4"
     });
 
     return this.http.get(
@@ -24,7 +24,7 @@ export class SpotifyService {
   getArtista(termino: string) {
     const headers = new HttpHeaders({
       Authorization:
-        "Bearer BQAfTfArV0a4k44nTPosfdlP9H04p2P6HT0IgNfI9F0nuLYze8YdhUgF-7IL7FFSfQFiVdX4GN8rxGpHyi4"
+        "Bearer BQCmjQSByyiYQULs9kbWkatfuV8H3-g_NQsPe7aWaXjwz8cTlImX0gm3_5fhyzUEkEVJm3YdqDxFUVUnlE4"
     });
 
     return this.http.get(
