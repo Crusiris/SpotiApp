@@ -2,6 +2,22 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
+## Layout One
+
+![SpotiAPP](https://github.com/Crusiris/SpotiApp/blob/master/src/assets/img/SpotiApp1.PNG)
+
+## Layout Two
+
+![SpotiAPP](https://github.com/Crusiris/SpotiApp/blob/master/src/assets/img/SpotiApp2.PNG)
+
+## Layout Three
+
+![SpotiAPP](https://github.com/Crusiris/SpotiApp/blob/master/src/assets/img/SpotiApp3.PNG)
+
+## Layout Four
+
+![SpotiAPP](https://github.com/Crusiris/SpotiApp/blob/master/src/assets/img/SpotiApp.gif)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
